@@ -1,6 +1,31 @@
-h1; h2; h3 {
-    color: brown; text-align-last: auto;
-}
-body{
-    background-color: aqua;
-}
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="estilo.css">
+    <title>Carmela Dutra</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <td width="30%"vallige="top">
+                <img src="">
+            </td>
+            <td witdh="10%">
+            </td>
+            <td width="60%" valing="top">
+                <h1> F250 a venda 170,000</h1>
+                <h2>com pneu BF=180,00
+                <h3>com sao joao mais 20,000</h3>
+                <h3>suspencao a ar mas 50,000</h3>
+                </h2>
+                <img src="2-f-250-megaraptor-by-f250r.com_.jpg"width="30%">
+            </td>
+        </tr>
+    </table>
+    <audio src="y2meta.com - A recaída - Zé Vaqueiro (Clipe Oficial) (320 kbps).mp3" controls></audio>
+    
+</body>
+</html>
