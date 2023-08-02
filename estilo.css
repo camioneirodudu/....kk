@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,25 +7,36 @@
     <link rel="stylesheet" href="estilo.css">
     <title>Carmela Dutra</title>
 </head>
-<body background="" width=1000% bgproperties="fixed"
-    </table>
+<body background="" width="1000%" bgproperties="fixed">
+    <table>
         <tr>
-            <td width="30%"vallige="top">
-                <img src="">
+            <td width="50%"vallige="top">
+                <ul>
+                <h1> Escola de Programação </h1>
+                <img src="" width="80%">
             </td>
-            <td witdh="10%">
-            </td>
-            <td width="60%" valing="top">
-                <h1> F250 a venda 170,000</h1>
-                <h2>com pneu BF=180,00
-                <h3>com sao joao mais 20,000</h3>
-                <h3>suspencao a ar mas 50,000</h3>
-                </h2>
-                <img src="2-f-250-megaraptor-by-f250r.com_.jpg"width="30%">
-            </td>
-        </tr>
-    </table>
-    <audio src="y2meta.com - A recaída - Zé Vaqueiro (Clipe Oficial) (320 kbps).mp3" controls></audio>
-    
-</body>
-</html>
+            <td width="50%" valing="top">
+                <h1>---</h1>
+                <li>...</li>
+                <li>...</li>
+                <li>...</li>
+                </h1>
+            </ul>
+        </td>
+    </tr>
+</table>
+<h2> o mercado de dados vem vrescendo ano após ano, com isso cresce também a nescessidade de profissionais qualificados na área da tecnologia da informação
+</h2>
+<table>
+    <tr>
+        <td width="20%" valing="top">
+            <h2> Selecione o curso </h2>
+        </td>
+    </td width="30%" valing="top">
+      <select name="curso">
+        <option value="1">analise e desenvolvimento de sistemas </option>
+        <option value="2">engeraria de softw</option>
+        <option value="3">analise e desenvolvimento de sistemas </option>
+        <option value="4"></option>
+        <option value="5">analise e desenvolvimento de sistemas </option>
+        <option value="6"></option>
