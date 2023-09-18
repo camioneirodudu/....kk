@@ -1,43 +1,12 @@
-<!<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="estilo.css">
-    <title>Carmela Dutra</title>
-</head>
-<body background="" width="1000%" bgproperties="fixed">
-    <table>
-        <tr>
-            <td width="50%"vallige="top">
-                <ul>
-                <h1> Escola de Programação </h1>
-                <img src="" width="80%">
-            </td>
-            <td width="50%" valing="top">
-                <h1>---</h1>
-                <li>...</li>
-                <li>...</li>
-                <li>...</li>
-                </h1>
-            </ul>
-        </td>
-    </tr>
-</table>
-<h2> o mercado de dados vem vrescendo ano após ano, com isso cresce também a nescessidade de profissionais qualificados na área da tecnologia da informação
-</h2>
-<table>
-    <tr>
-        <td width="20%" valing="top">
-            <h2> Selecione o curso </h2>
-        </td>
-    </td width="30%" valing="top">
-      <select name="curso">
-        <option value="1">analise e desenvolvimento de sistemas </option>
-        <option value="2">engeraria de software</option>
-        <option value="3">ciencias da computacao </option>
-        <option value="4">engeraria da computaçao</option>
-        <option value="5">processamento de dados</option>
-        <option value="6">tecnologia para internet</option>]
-        <option value="7">sistemas para internet</option>
+CSS
+
+h1,h2,h3{
+    color:blueviolet
+}
+body{ 
+    background-color:aliceblue
+}
+li{
+    color:brown (0,0,0 )
+    font-family : Arial, Helvetica, sans-serif;
+}
